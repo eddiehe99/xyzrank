@@ -19,12 +19,12 @@ class XYZRankScraper:
         )
         self.log = []
 
-    def log_message(self, message):
-        """记录日志信息"""
-        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        log_entry = f"[{timestamp}] {message}"
-        print(log_entry)
-        self.log.append(log_entry)
+    # def log_message(self, message):
+    #     """记录日志信息"""
+    #     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    #     log_entry = f"[{timestamp}] {message}"
+    #     print(log_entry)
+    #     self.log.append(log_entry)
 
     def get_current_js_url(self):
         """获取当前最新的JS文件URL"""
