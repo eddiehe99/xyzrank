@@ -9,7 +9,7 @@ from datetime import datetime
 
 class XYZRankScraper:
     def __init__(self):
-        self.base_url = "https://xyzrank.com"
+        self.base_url = "https://xyzrank.com/#/"
         self.session = requests.Session()
         self.session.headers.update(
             {
