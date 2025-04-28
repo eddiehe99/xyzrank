@@ -1,5 +1,7 @@
 # xyzrank
 
+[![Daily Update](https://github.com/eddiehe99/xyzrank/actions/workflows/daily_update.yml/badge.svg)](https://github.com/eddiehe99/xyzrank/actions/workflows/daily_update.yml)
+
 ## 数据来源
 
 - [中文播客榜](https://xyzrank.com/#/) by [《枫言枫语》](https://fyfy.fm/)
