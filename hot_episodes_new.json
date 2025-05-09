@@ -2,68 +2,20 @@
   "data": {
     "episodes": [
       {
-        "title": "12.缅甸地震与关税地震，在历史进程中的我们 | Newsletter",
-        "podcastID": "6641d80ae62373fd090a9c126fd3c8f6",
-        "podcastName": "西西弗高速",
-        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/33/c8/3933c812-a713-a8b3-2046-9d82db97ccb3/mza_12071338705578516728.jpg/100x100bb.jpg",
-        "link": "https://www.xiaoyuzhoufm.com/episode/680a0a548aed253fa3481c1b",
-        "playCount": 101037,
-        "commentCount": 826,
-        "subscription": 17943,
-        "duration": 164,
-        "postTime": "2025-04-24T14:00:00.000Z",
-        "primaryGenreName": "社会与文化",
-        "totalEpisodesCount": 6,
-        "openRate": 5.630998160842668,
-        "lastReleaseDateDayCount": 13.229507025462963
-      },
-      {
-        "title": "5.在中国，月薪过万到底有多难？",
-        "podcastID": "5f1d4250c6ca3f789467f5544279d090",
-        "podcastName": "数据会说话",
-        "logoURL": "https://xyzrank.justinbot.com/FjdSuofAaysCYTbf0jhw620PE8oU.jpg@small",
-        "link": "https://www.xiaoyuzhoufm.com/episode/68090edf8aed253fa3217567",
-        "playCount": 49448,
-        "commentCount": 238,
-        "subscription": 7788,
-        "duration": 29,
-        "postTime": "2025-04-23T22:00:00.000Z",
-        "primaryGenreName": "",
-        "totalEpisodesCount": 4,
-        "openRate": 6.349255264509502,
-        "lastReleaseDateDayCount": 13.89617369212963
-      },
-      {
         "title": "vol.10 Ta人的目光是天堂还是地狱！？",
         "podcastID": "ff82102a8bbf36f5dca0703a37add507",
         "podcastName": "癫疯对谈",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource211/v4/95/42/be/9542bec9-56df-5c6e-ebcf-caf9db9555ae/095c9f1d-a685-493d-8734-b28696e27e9d.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/680b53f28aed253fa379abba",
-        "playCount": 7035,
-        "commentCount": 95,
+        "playCount": 7286,
+        "commentCount": 96,
         "subscription": 2778,
         "duration": 123,
         "postTime": "2025-04-25T12:58:45.576Z",
         "primaryGenreName": "休闲",
         "totalEpisodesCount": 6,
-        "openRate": 2.5323974082073435,
-        "lastReleaseDateDayCount": 12.272035081018519
-      },
-      {
-        "title": "番外：当中国观众失去美国电影",
-        "podcastID": "957ad260472aa288779dd29955d0f921",
-        "podcastName": "电影巨辩·为了华语电影",
-        "logoURL": "https://xyzrank.justinbot.com/FsuAlVAio7OYvWtbu9qMiT_Fdd32.jpg@small",
-        "link": "https://www.xiaoyuzhoufm.com/episode/680a05cb7a449ae85873cfd4",
-        "playCount": 5823,
-        "commentCount": 107,
-        "subscription": 3099,
-        "duration": 54,
-        "postTime": "2025-04-24T16:00:00.000Z",
-        "primaryGenreName": "",
-        "totalEpisodesCount": 6,
-        "openRate": 1.8789932236205227,
-        "lastReleaseDateDayCount": 13.14617369212963
+        "openRate": 2.622750179985601,
+        "lastReleaseDateDayCount": 13.272029351851852
       },
       {
         "title": "🎯左右互搏的AlphaZero大法，是怎样炼成的？ 樊麾/东东枪/北冥乘海生",
@@ -71,15 +23,15 @@
         "podcastName": "科技修道院",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/74/e1/d4/74e1d49d-19b4-c106-5613-001f936ef461/mza_3240129650816601512.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/680c61768aed253fa397587c",
-        "playCount": 2397,
-        "commentCount": 40,
+        "playCount": 2444,
+        "commentCount": 42,
         "subscription": 1234,
         "duration": 85,
         "postTime": "2025-04-26T16:00:00.000Z",
         "primaryGenreName": "科技",
         "totalEpisodesCount": 4,
-        "openRate": 1.9424635332252835,
-        "lastReleaseDateDayCount": 11.14617369212963
+        "openRate": 1.980551053484603,
+        "lastReleaseDateDayCount": 12.146167962962963
       },
       {
         "title": "11. 聊聊语言学习的魅力：声音的拼图&词汇的血脉传承",
@@ -87,15 +39,15 @@
         "podcastName": "追来园杂记",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource211/v4/67/02/47/670247a1-e6ff-5c1a-ef86-070fdfa53baa/2474b792-425e-490a-95fe-004545ff3b6f.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/680b59bf8aed253fa37b502b",
-        "playCount": 2211,
-        "commentCount": 47,
+        "playCount": 2257,
+        "commentCount": 48,
         "subscription": 9463,
         "duration": 24,
         "postTime": "2025-04-25T09:50:35.063Z",
         "primaryGenreName": "社会与文化",
         "totalEpisodesCount": 14,
-        "openRate": 0.23364683504174152,
-        "lastReleaseDateDayCount": 12.402712314814815
+        "openRate": 0.23850787276762125,
+        "lastReleaseDateDayCount": 13.402706585648149
       },
       {
         "title": "11月 饮茶粤海未能忘",
@@ -103,15 +55,15 @@
         "podcastName": "忽略2024",
         "logoURL": "https://xyzrank.justinbot.com/FoD7s4b0GCaPdU01BtAmZTIrhToB.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/680f4d278aed253fa3028be6",
-        "playCount": 1851,
+        "playCount": 1904,
         "commentCount": 91,
         "subscription": 1421,
         "duration": 74,
         "postTime": "2025-04-28T10:01:41.319Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 2,
-        "openRate": 1.302603800140746,
-        "lastReleaseDateDayCount": 9.395001018518519
+        "openRate": 1.3399014778325122,
+        "lastReleaseDateDayCount": 10.394995289351852
       },
       {
         "title": "放假前奏：旅行趣事一箩筐",
@@ -119,15 +71,15 @@
         "podcastName": "伦家不要嘛",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/da/fc/15/dafc154a-f07c-06be-0765-415df06a44fa/mza_16167900013746882229.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/680f667b7a449ae858359c42",
-        "playCount": 1284,
+        "playCount": 1337,
         "commentCount": 12,
         "subscription": 4362,
         "duration": 68,
         "postTime": "2025-04-28T11:39:27.462Z",
         "primaryGenreName": "休闲",
         "totalEpisodesCount": 18,
-        "openRate": 0.29436038514442914,
-        "lastReleaseDateDayCount": 9.327105844907408
+        "openRate": 0.30651077487391104,
+        "lastReleaseDateDayCount": 10.327100115740741
       },
       {
         "title": "Vol 12｜中美AI对抗下，科创企业的隐形护城河｜嘉宾：松应科技创始人聂凯旋",
@@ -135,24 +87,24 @@
         "podcastName": "别开生面｜吴伯凡的播客",
         "logoURL": "https://xyzrank.justinbot.com/FhVzvYIX93bRgprof0397yeKWRe4.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/680a78b88aed253fa359eb74",
-        "playCount": 1263,
+        "playCount": 1302,
         "commentCount": 8,
         "subscription": 6737,
         "duration": 63,
         "postTime": "2025-04-25T10:00:00.000Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 8,
-        "openRate": 0.18747216862104796,
-        "lastReleaseDateDayCount": 12.39617369212963
+        "openRate": 0.19326109544307554,
+        "lastReleaseDateDayCount": 13.396167962962963
       }
     ],
     "medianValues": {
-      "playCount": 2397,
-      "commentCount": 91,
-      "interactiveRate": 0.013503909026297086,
-      "openRate": 1.8789932236205227,
-      "duration": 68,
-      "lastReleaseDateDayCount": 12.39617369212963
+      "playCount": 2080.5,
+      "commentCount": 45,
+      "interactiveRate": 0.015180448300509509,
+      "openRate": 0.8232061263532117,
+      "duration": 71,
+      "lastReleaseDateDayCount": 12.709098657407408
     }
   },
   "type": 3
